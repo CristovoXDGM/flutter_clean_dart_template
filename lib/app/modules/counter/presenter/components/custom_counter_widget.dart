@@ -10,6 +10,8 @@ class CustomCounterWidget extends StatefulWidget {
 class _CustomCounterWidgetState extends State<CustomCounterWidget> {
   @override
   Widget build(BuildContext context) {
-    return Container();
+    return Container(
+      child: Text('dasd'),
+    );
   }
 }
